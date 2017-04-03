@@ -2,7 +2,7 @@ package com.twitter.poruke;
 /**
  * Klasa koja definise korisnika i poruke 
  * @author Ivan Stanimirovic
- * @version1.0
+ * @version 1.0
  */
 public class TwitterPoruka {
 	/**
@@ -47,7 +47,7 @@ public class TwitterPoruka {
 	
 	/**
 	 * metoda postavlja vrednost privatnog atrbuta poruka na unetu vrednost
-	 * @param korisnik oznacava String koji se postavlja kao vrednost privatnog atributa poruka, koji ne sme da bude:
+	 * @param poruka oznacava String koji se postavlja kao vrednost privatnog atributa poruka, koji ne sme da bude:
 	 * <ul>
 	 * <li>null</li>
 	 * <li>prazan String</li>
